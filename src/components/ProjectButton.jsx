@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Button = () => {
   return (
     <StyledWrapper>
-      <a href="/this.zip" download>
+      <a href="/Ahmed-Resume.pdf" download>
         <button className="button">
           <div className="blob1" />
           <div className="blob2" />

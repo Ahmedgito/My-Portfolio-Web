@@ -26,7 +26,7 @@ const Contribution = () => {
             username="Ahmedgito"
             blockSize={15}
             blockMargin={5}
-            color="#4c1d95"
+            color="blue"
             fontSize={14}
           />
         </div>
